@@ -2,7 +2,7 @@
 multi-engine cheat (dropped for the moment)
 
 # Supported
-Call of Duty 8: Modern Warfare 3 (cracked, non-steam TeknoMW3, 1.4.xxx)
+Call of Duty 8: Modern Warfare 3 (cracked, non-steam TeknoMW3, 1.4.xxx)\n
 Call of Duty 4: Modern Warfare (1.7)
 Battlefield 3 (Origin)
 
