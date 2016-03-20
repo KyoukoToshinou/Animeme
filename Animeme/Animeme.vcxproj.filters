@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Games / Engines">
+      <UniqueIdentifier>{32903858-48ff-4206-84bc-a25079d393db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Games / Engines\CoD4">
+      <UniqueIdentifier>{63d9aa42-0320-4d72-84ea-b495a646e241}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Games / Engines\BF3">
+      <UniqueIdentifier>{d7ecbaac-0b46-4bff-a389-0e4696351c9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\shit pub detours">
+      <UniqueIdentifier>{9dd50f9e-6d6f-4394-95e4-3adc11363c27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\UI">
+      <UniqueIdentifier>{d8105cf1-5d8e-448e-90db-e7b014061e66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Games / Engines\CoD8">
+      <UniqueIdentifier>{8a92f94b-6ad3-46ea-94f9-4924def236d9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="console.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="file.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="language.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="cod4.cpp">
+      <Filter>Games / Engines\CoD4</Filter>
+    </ClCompile>
+    <ClCompile Include="gamemanager.cpp">
+      <Filter>Games / Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="bf3.cpp">
+      <Filter>Games / Engines\BF3</Filter>
+    </ClCompile>
+    <ClCompile Include="hook.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="color.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="draw.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ADE32.cpp">
+      <Filter>Fichiers sources\shit pub detours</Filter>
+    </ClCompile>
+    <ClCompile Include="detourxs.cpp">
+      <Filter>Fichiers sources\shit pub detours</Filter>
+    </ClCompile>
+    <ClCompile Include="math.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="vector.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="okaeri.cpp">
+      <Filter>Fichiers sources\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="entity.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="entmgr.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>Games / Engines</Filter>
+    </ClCompile>
+    <ClCompile Include="cod8.cpp">
+      <Filter>Games / Engines\CoD8</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="console.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="file.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="language.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="cod4.h">
+      <Filter>Games / Engines\CoD4</Filter>
+    </ClInclude>
+    <ClInclude Include="gamemanager.h">
+      <Filter>Games / Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="bf3.h">
+      <Filter>Games / Engines\BF3</Filter>
+    </ClInclude>
+    <ClInclude Include="hook.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="color.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="draw.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="ADE32.h">
+      <Filter>Fichiers sources\shit pub detours</Filter>
+    </ClInclude>
+    <ClInclude Include="detourxs.h">
+      <Filter>Fichiers sources\shit pub detours</Filter>
+    </ClInclude>
+    <ClInclude Include="vector.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="math.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="okaeri.h">
+      <Filter>Fichiers sources\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="bf3_sdk.h">
+      <Filter>Games / Engines\BF3</Filter>
+    </ClInclude>
+    <ClInclude Include="entity.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="entmgr.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Games / Engines</Filter>
+    </ClInclude>
+    <ClInclude Include="cod8.h">
+      <Filter>Games / Engines\CoD8</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
